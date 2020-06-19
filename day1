@@ -1,0 +1,14 @@
+     int p;
+       double q;
+       string r;
+       cin>>p;
+        cin>>q;
+
+       cin.ignore();
+       getline(cin,r);
+
+      cout<<i+p<<endl;
+      double sum=(double)q+d;
+      printf("%.1f\n",sum); 
+      cout<<s+r<<endl;
+        
